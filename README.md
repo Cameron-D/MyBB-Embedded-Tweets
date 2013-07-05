@@ -15,5 +15,3 @@ Usage
 -----
 
 `[twitter]https://twitter.com/Fyre_flye/status/289975870377054208[/twitter]`
-
-Result
